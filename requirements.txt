@@ -1,2 +1,2 @@
 PyYAML==5.4.1
-numpy==1.16.0
+numpy==2.3.4
